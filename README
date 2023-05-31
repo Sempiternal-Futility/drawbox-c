@@ -1,0 +1,27 @@
+In order for the program to work, 6 arguments must be supplied.
+
+
+1- Background color:
+Valid arguments are: black, red, green, yellow, blue, magenta, cyan, white, bblack, bred, bgreen, byellow, bblue, bmagenta, bcyan, bwhite.
+(The 'b' on the start of the colors stands for "bright").
+
+
+2- Color of the box:
+Valid arguments are: black, red, green, yellow, blue, magenta, cyan, white, bblack, bred, bgreen, byellow, bblue, bmagenta, bcyan, bwhite.
+(The 'b' on the start of the colors stands for "bright").
+
+
+3- Y Position of the box:
+Any number is valid.
+
+
+4- X Position of the box:
+Any number is valid.
+
+
+5- Y Size of the box:
+Any number is valid.
+
+
+6- X Size of the box:
+Any number is valid.
